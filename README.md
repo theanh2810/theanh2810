@@ -1,4 +1,4 @@
-# NGUYEN THE ANH ✅
+# NGUYEN THE ANH
 
 ## 👤 Personal Information
 - **Full name:** Nguyễn Thế Anh
