@@ -1,16 +1,44 @@
-## Hi there 👋
+# NGUYEN THE ANH ✅
 
-<!--
-**theanh2810/theanh2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Personal Information
+- **Full name:** Nguyễn Thế Anh
+- **Role:** Backend Developer · C# · .NET
+- **Email:** anhthenguyen2810@gmail.com
+- **Location:** Hue, Vietnam
+- **Website / Portfolio:** https://your-website.example
+- **Languages:** Vietnamese, English
 
-Here are some ideas to get you started:
+> **Note:** Replace placeholders like `https://your-website.example` with your real links.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technologies
+- **Languages:** C#, JavaScript, TypeScript, Python
+- **Backend:** .NET (ASP.NET Core), C#, Entity Framework Core, Dapper
+- **Frontend:** React, Next.js (optional)
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **DevOps & Tools:** Docker, Git, GitHub Actions, CI/CD
+- **Others:** RESTful APIs, GraphQL, Testing (xUnit, NUnit, Moq)
+
+---
+
+## 🚀 Notable Projects
+- **Project Name 1** — Short description (tech: ASP.NET Core, SQL Server). Link: https://github.com/your/repo
+- **Project Name 2** — Short description (tech: React, Node.js). Link: https://github.com/your/repo
+
+---
+
+## 🎯 Goals & Interests
+- Build scalable backend systems and microservices.
+- Learn more about distributed systems and cloud-native architecture.
+
+---
+
+## 📫 Contact
+- Email: anhthenguyen2810@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yourprofile
+
+---
+
+**Want me to fill in real project details or tweak technologies?** ✨
+
